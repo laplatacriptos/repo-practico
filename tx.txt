@@ -1,1 +1,2 @@
 Este es el primer comentario en tx.txt
+Este es el segundo comentario en tx.txt
